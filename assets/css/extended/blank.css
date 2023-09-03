@@ -17,3 +17,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 .paginav a {
     padding: 10px 12px 14px 12px; 
 }
+
+.header {
+    background: #007d9c;
+}
